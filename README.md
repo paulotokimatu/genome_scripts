@@ -1,2 +1,2 @@
 # genome_scripts
-Scripts useful for analysis of genomes
+Useful scripts for analysis of genome assemblies
