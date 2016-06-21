@@ -1,4 +1,4 @@
-#!usr/bin/python
+#!/usr/bin/python
 
 # Author: Paulo Tokimatu
 # Last update: 2016/05/20
